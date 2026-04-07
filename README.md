@@ -4,7 +4,7 @@ This repository contains the source code for a personal 3D portfolio built with 
 
 Live site: [https://github.com/AnkurSingla780](https://github.com/AnkurSingla780)
 
-
+![Portfolio Preview](public/images/preview.png)
 
 ## Table of Contents
 
